@@ -1,2 +1,2 @@
-# workbook
-workbook project boot.dev
+# bookbot
+bookbot project boot.dev
